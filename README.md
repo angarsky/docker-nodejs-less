@@ -1,4 +1,4 @@
-A Docker image with the a Less code compiler.
+A Docker image with a Less code compiler.
 
 # Usage
 
